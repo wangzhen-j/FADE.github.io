@@ -1,0 +1,19 @@
+FADE Consists of:
+we collect videos in diverse weather conditions, light, conditions, scenes
+
+we collect nine kinds of objects as follows: clothes, basins, shoes, kitchen waste, water balloons, books, spitballs, bottles, and packaging bags.
+
+we consider three different camera angles: 30°, 45°, and 60°.
+
+we provide videos with four resolutions: 1280 × 720, 1920 × 1080, 2560 × 1440, and 2592 × 1520.
+
+we also collect rich background video data with diverse backgrounds
+
+Area ranges and proportions of the falling objects in our FADE dataset
+
+共享：
+https://drive.google.com/drive/folders/1ThvLjvrSu6ppq7euj-WWOWqO-OeKiW_r?usp=sharing
+分享链接：
+https://drive.google.com/drive/folders/1ThvLjvrSu6ppq7euj-WWOWqO-OeKiW_r
+code：
+https://github.com/Zhengbo-Zhang/FADE
